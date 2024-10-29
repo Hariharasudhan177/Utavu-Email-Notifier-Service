@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Utavu_Email_Notifier_Service": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7295",
+      "launchBrowser": false
+    }
+  }
+}
